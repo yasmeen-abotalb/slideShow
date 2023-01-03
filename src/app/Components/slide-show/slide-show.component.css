@@ -1,0 +1,14 @@
+img{
+  width:400px;
+  height:450px;
+}
+input{
+  background-color:rosybrown;
+  padding: 5px;
+  border: none;
+  color: white;
+  font-weight: 600px;
+  font-size: 18px;
+  margin: 25px;
+  cursor: pointer;
+}
